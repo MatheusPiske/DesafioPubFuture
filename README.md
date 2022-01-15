@@ -15,7 +15,7 @@ Para o desenvolvimento das funcionalidades da aplicação, optei pelo uso da lin
 
 2 - Requests (Requisição API)
 
-3 - MySQL (Manipulação do MySQL atrvés da API)
+3 - MySQL (Manipulação do MySQL através da API)
 
 ### *• Como rodar a aplicação corretamente na máquina*
 
@@ -27,6 +27,6 @@ Para o desenvolvimento das funcionalidades da aplicação, optei pelo uso da lin
 
 4 - Inicializar a API.
 
-5 - Ainda com a API ligada, inicie o programa financas_pessoais_system.py e se divita. =)
+5 - Ainda com a API ligada, inicie o programa financas_pessoais_system.py e se divirta. =)
 
 OBS: Por padrão o banco de dados está configurado para o Localhost. Para qualquer alteração no host do MySQL basta substitui-lo na linha 8 de api.py.
